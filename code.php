@@ -5,6 +5,6 @@
         <title>
         </title>
     <body>
-        <p><?php ?></p>
+        <p><?php echo 'Hello World'; ?></p>
     </body>
 </html>    
