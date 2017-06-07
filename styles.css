@@ -10,4 +10,5 @@ h1, h2 {
 }
 p {
     max-width: 60em;
+    background-color: yellow;
 }
