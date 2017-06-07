@@ -5,3 +5,9 @@ body {
     margin-left: 20px;
     font-size: 85%;
 }
+h1, h2 {
+    color: #0e618c;
+}
+p {
+    max-width: 60em;
+}
